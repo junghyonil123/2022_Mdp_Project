@@ -1,0 +1,90 @@
+[api-updater (non-obsolete-error-filter)] 2022-03-21 PM 3:47:55 : Starting C:/Users/User/Desktop/새 폴더 (4)/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 169.2314ms
+moved types parse time: 67ms
+candidates parse time : 3ms
+C# parse time         : 248ms
+candidates check time : 65ms
+console write time    : 45ms
+
+[api-updater (non-obsolete-error-filter)] 2022-03-21 PM 3:57:28 : Starting C:/Users/User/Desktop/새 폴더 (4)/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 833.8208ms
+moved types parse time: 411ms
+candidates parse time : 138ms
+C# parse time         : 628ms
+candidates check time : 228ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-03-21 PM 3:58:55 : Starting C:/Users/User/Desktop/새 폴더 (4)/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 673.7244ms
+moved types parse time: 396ms
+candidates parse time : 86ms
+C# parse time         : 676ms
+candidates check time : 238ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-03-21 PM 3:59:19 : Starting C:/Users/User/Desktop/새 폴더 (4)/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 850.2719ms
+moved types parse time: 588ms
+candidates parse time : 101ms
+C# parse time         : 599ms
+candidates check time : 71ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-03-24 AM 9:28:01 : Starting C:/Users/User/Desktop/새 폴더 (4)/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 234.2934ms
+moved types parse time: 69ms
+candidates parse time : 2ms
+C# parse time         : 339ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022-03-24 AM 9:32:28 : Starting C:/Users/User/Desktop/새 폴더 (4)/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 177.7927ms
+moved types parse time: 72ms
+candidates parse time : 4ms
+C# parse time         : 252ms
+candidates check time : 62ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-03-24 AM 9:32:32 : Starting C:/Users/User/Desktop/새 폴더 (4)/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.5955ms
+moved types parse time: 92ms
+candidates parse time : 2ms
+C# parse time         : 260ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-03-24 AM 9:32:49 : Starting C:/Users/User/Desktop/새 폴더 (4)/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 140.5936ms
+moved types parse time: 66ms
+candidates parse time : 2ms
+C# parse time         : 244ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022-03-24 AM 10:56:51 : Starting C:/Users/User/Desktop/새 폴더 (4)/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 297.1187ms
+moved types parse time: 133ms
+candidates parse time : 6ms
+C# parse time         : 562ms
+candidates check time : 78ms
+console write time    : 1ms
+
